@@ -1,1 +1,1 @@
-# lab_8
+# lab_assignment_8
